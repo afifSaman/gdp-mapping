@@ -1,0 +1,30 @@
+{
+  "name": "gdpmapping",
+  "version": "1.0.0",
+  "description": "Mapping the GDP and total expenditure to given country",
+  "main": "server.js",
+  "dependencies": {
+    "angular-animate": "^1.6.4",
+    "angular": "^1.6.4",
+    "angular-aria": "^1.6.4",
+    "angular-chart.js": "^1.1.1",
+    "angular-messages": "^1.6.4",
+    "angular-ui-router": "^1.0.3",
+    "angular-material": "^1.1.4",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mdi": "^1.9.33",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "gdp"
+  ],
+  "author": "Afif Saman",
+  "license": "ISC"
+}
