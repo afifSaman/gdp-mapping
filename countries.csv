@@ -1,0 +1,192 @@
+country	GDP	govExp	code	continent
+Afghanistan	18886	23	AF	Asia
+Albania	12126	28.5	AL	Europe
+Algeria	160784	40.4	DZ	Africa
+Angola	95821	38.6	AO	Africa
+Antigua and Barbuda	1398	38.6	AG	North America
+Argentina	545124	40.9	AR	South America
+Armenia	10499	25	AM	Europe
+Australia	1258978	35.3	AU	Oceania
+Austria	386752	50.5	AT	Europe
+Azerbaijan	37556	34.2	AZ	Europe
+Bahamas	8939	23	BS	North America
+Bahrain	31907	30.9	BH	Asia
+Bangladesh	227901	16	BD	Asia
+Barbados	4588	40.9	BB	North America
+Belarus	48847	36	BY	Europe
+Belgium	466960	53.3	BE	Europe
+Belize	1743	29.3	BZ	North America
+Benin	8577	21.5	BJ	Africa
+Bhutan	2115	37.8	BT	Asia
+Bolivia	34831	35.4	BO	South America
+Bosnia and Herzegovina	16605	49.2	BA	Europe
+Botswana	15018	31.8	BW	Africa
+Brazil	1798622	39.1	BR	South America
+Brunei	11182	33.6	VG	Asia
+Bulgaria	52418	34.4	BG	Europe
+Burkina Faso	11182	24.3	BF	Africa
+Burundi	3133	40	BI	Africa
+Cape Verde	1636	32.3	CV	Africa
+Cambodia	19398	19.6	KH	Asia
+Cameroon	29334	21.6	CM	Africa
+Canada	1529224	41.9	CA	North America
+Central African Republic	1780	15.7	CF	Africa
+Chad	10103	25.8	TD	Africa
+Chile	247025	23.2	CL	South America
+China	11218281	23.9	CN	Asia
+Colombia	282357	28.9	CO	South America
+Comoros	620	22.1	KM	Africa
+Costa Rica	58109	18.2	CR	North America
+Côte d'Ivoire	35489	18.2	CI	North America
+Croatia	50441	42.5	HR	Europe
+Cyprus	19810	46.1	CY	Europe
+Czech Republic	192991	43.3	CZ	Europe
+Democratic Republic of the Congo	41615	29.1	CD	Africa
+Denmark	306730	57.6	DK	Europe
+Djibouti	1894	35.2	DJ	Africa
+Dominica	520	35.7	DM	North America
+Dominican Republic	72194	16.1	DO	North America
+Ecuador	98010	44	EC	South America
+Egypt	332349	31.8	EG	Africa
+El Salvador	26709	21.7	SV	North America
+Equatorial Guinea	11636	35.3	GQ	Africa
+Eritrea	5352	33.6	ER	Africa
+Estonia	23130	38.3	EE	Europe
+Ethiopia	72523	18.4	ET	Africa
+Federated States of Micronesia	322		FM	Africa
+Fiji	4640	28.2	FJ	Oceania
+Finland	236883	55.1	FI	Europe
+France	2463222	56.1	FR	Europe
+Gabon	14273	24.7	GA	Africa
+Georgia	14222	31.8	GE	Europe
+Germany	3466639	45.4	DE	Europe
+Ghana	43264	23.6	GH	Africa
+Greece	194248	51.9	GR	Europe
+Grenada	1027	51.9	GD	North America
+Guatemala	68175	14.6	GT	North America
+Guinea	6512	21.5	GN	Africa
+Guinea-Bissau	1155	21.2	GW	Africa
+Guyana	3437	30.6	GY	South America
+Haiti	8257	33.5	HT	North America
+Honduras	21364	25.9	HN	North America
+Hong Kong	320668	18.5	HK	North America
+Hungary	125675	49.4	HU	Europe
+Iceland	20047	47.3	IS	Europe
+India	2256397	27.2	IN	Asia
+Indonesia	932448	18.5	ID	Asia
+Iran	376755	21.7	IR	Asia
+Iraq	167026	44.6	IQ	Asia
+Ireland	293605	48.1	IE	Europe
+Israel	318386	44.6	IL	Asia
+Italy	1850735	49.8	IT	Europe
+Jamaica	13950	31.9	JM	North America
+Japan	4938644	42	JP	Asia
+Jordan	38743	33.2	JO	Asia
+Kazakhstan	133757	22.4	KZ	Asia
+Kenya	68919	29.1	KE	Africa
+Kiribati	167	91.8	KI	Oceania
+Kosovo	6707	91.8	KI	Asia
+Kuwait	109859	38.5	KW	Asia
+Kyrgyzstan	6551	36.4	KG	Asia
+Laos	13790	21	LA	Asia
+Latvia	27684	38.8	LV	Europe
+Lebanon	51991	29.6	LB	Asia
+Lesotho	2267	63.1	LS	Africa
+Liberia	2111	31.4	LR	Africa
+Libya	33157	66.6	LY	Africa
+Lithuania	42749	38.3	LT	Europe
+Luxembourg	59468	41.8	LU	Europe
+Macau	44110	16.6	MO	Europe
+Macedonia	10912	31.3	MK	Europe
+Madagascar	9740	16	MG	Africa
+Malawi	5492	35.1	MW	Africa
+Malaysia	296359	28.5	MY	Asia
+Maldives	3379	43.3	MV	Asia
+Mali	13960	24.7	ML	Africa
+Malta	10953	42	MT	Europe
+Marshall Islands	183		MH	Oceania
+Mauritania	4714	28.4	MR	Africa
+Mauritius	11950	24.7	MU	Africa
+Mexico	1046002	26.6	MX	North America
+Moldova	6750	39	MD	Europe
+Mongolia	11031	45.1	MN	Asia
+Montenegro	4126	43.8	ME	Europe
+Morocco	103615	34.6	MA	Africa
+Mozambique	11283	34.4	MZ	Africa
+Myanmar	66324	34.4	MM	Asia
+Namibia	10646	37	NA	Africa
+Nepal	21154	18.6	NP	Asia
+Netherlands	771163	49.8	NL	Europe
+New Zealand	181991	47.5	NZ	Oceania
+Nicaragua	13049	25.8	NI	North America
+Niger	7479	19.6	NE	Africa
+Nigeria	405952	29.2	NG	Africa
+Norway	370449	43.9	NO	Europe
+Oman	63171	38.3	OM	Asia
+Pakistan	284185	19.8	PK	Asia
+Palau	293		PW	Oceania
+Panama	55122	26.6	PA	North America
+Papua New Guinea	20003	28.6	PG	Oceania
+Paraguay	27441	19.1	PY	South America
+Peru	195140	19.1	PE	South America
+Philippines	304696	16	PH	Asia
+Poland	467591	43.5	PL	Europe
+Portugal	204761	49.4	PT	Europe
+Puerto Rico	101304	49.4	PR	Europe
+Qatar	156734	30.5	QA	Asia
+Republic of Congo	7955	30.5	CG	Africa
+Romania	187039	36.9	RO	Europe
+Russia	1280731	35.8	RU	Europe
+Rwanda	8406	27	RW	Africa
+Saint Vincent and the Grenadines	775	30.3	VC	North America
+Samoa	786	43.9	WS	Oceania
+San Marino	1592	43.9	SM	Europe
+São Tomé and Príncipe	350	49	ST	Africa
+Saudi Arabia	639617	35.1	SA	Asia
+Senegal	14785	28.6	SN	Africa
+Serbia	37745	45.2	RS	Europe
+Seychelles	1405	35.7	SC	Africa
+Sierra Leone	3981	21.9	SL	Africa
+Singapore	296967	17.1	SG	Asia
+Slovakia	89525	38.3	SK	Europe
+Slovenia	44009	50.8	SI	Europe
+Solomon Islands	1184	51.2	SB	Oceania
+South Africa	294132	32.1	ZA	Africa
+South Korea	1411246	30.2	KR	Africa
+South Sudan	2914	30.2	SS	Africa
+Spain	1232597	45.2	ES	Europe
+Sri Lanka	82615	21.4	LK	Asia
+Saint Kitts and Nevis	903	21.4	KN	North America
+Saint Lucia	1385	21.4	LC	North America
+Sudan	94421	17.9	SD	Africa
+Suriname	3570	26.9	SR	South America
+Swaziland	3770	31.2	SZ	Africa
+Sweden	511397	51.2	SE	Europe
+Switzerland	659850	33.8	CH	Europe
+Syria	77460		SY	Asia
+Taiwan	528550	22.6	TW	Asia
+Tajikistan	6922	27	TJ	Asia
+Tanzania	47184	26.9	TZ	Africa
+Thailand	406949	23.4	TH	Asia
+The Gambia	965	23.4	TH	Asia
+Timor-Leste	2498	139.7	TL	Asia
+Togo	4434	24.2	TG	Africa
+Tonga	403	29	TO	Oceania
+Trinidad and Tobago	20966	35.4	TT	North America
+Tunisia	41869	34.8	TN	Africa
+Turkey	857429	34.9	TR	Asia
+Turkmenistan	36180	15.2	TM	Asia
+Tuvalu	34		TV	Oceania
+Uganda	26195	20.6	UG	Africa
+Ukraine	93263	45.6	UA	Europe
+United Arab Emirates	371353	23.7	AE	Asia
+United Kingdom	2629188	48.5	GB	Europe
+United States	18569100	41.6	US	North America
+Uruguay	54567	32.6	UY	South America
+Uzbekistan	66502	31.4	UZ	Asia
+Vanuatu	773	24.7	VU	Oceania
+Venezuela	287274	40.1	VE	South America
+Vietnam	201326	30.9	VN	Asia
+Yemen	27318	28.9	YE	Asia
+Zambia	21310	23.9	ZM	Africa
+Zimbabwe	14174	34.6	ZW	Africa
