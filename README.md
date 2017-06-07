@@ -2,9 +2,9 @@
 
 # Project Setup
 # Required software
-1 - Install Node.js (download from: https://nodejs.org/en/download/)
-2 - Install MongoDB (download from: https://www.mongodb.com/)
-3 - Install MongoDB IDE Studio 3T (download from: https://studio3t.com/)
+1. Install Node.js (download from: https://nodejs.org/en/download/)
+2. Install MongoDB (download from: https://www.mongodb.com/)
+3. Install MongoDB IDE Studio 3T (download from: https://studio3t.com/)
 After installing the required software, download the project folder to your local machine
 
 # Setting up the Database
