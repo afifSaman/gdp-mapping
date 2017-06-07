@@ -1,0 +1,42 @@
+<div class="container">
+  <div style="display: inline-block;">
+    <label pull-right>Continent Filter: <select class="pull-right" ng-model="selectedContinent" ng-options="continent for continent in vm.continentFilter"></select></label>
+  </div>
+  <h2>Countries Total Expenditure Heatmap</h2>
+  <div class="col-md-12">
+    <div class="panel panel-default">
+      <div class="panel panel-body">
+        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 1100 500">
+          <g heat-map ng-repeat="country in vm.countries | filter: selectedContinent" data="country" index="$index">
+            <rect width="50" height="50" style="stroke:purple;stroke-width:1"></rect>
+            <text alignment-baseline="middle" text-anchor="middle" font-family="Verdana" font-size="20" fill="white">{{country.code}}</text>
+          </g>
+        </svg>
+      </div>
+      <div class="panel panel-footer">
+        <p>
+          Government spending as % of GDP
+        </p>
+        <div ng-repeat="legend in vm.expenditureLegend">
+            <div class='legend-color'
+                 ng-style="{backgroundColor:'{{legend.value | heat_colour}}'}">
+            </div>
+            <div class='legend-text'>
+              {{legend.text}}
+            </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+          <div class="panel panel-body">
+              <div>
+                  <div class="col-xs-6 col-md-4" ng-repeat="country in vm.countries | filter: selectedContinent">
+                      <div>{{country.code}}</div>
+                      <div>{{country.country}}</div>
+                      <div>{{country.govExp}}%</div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>

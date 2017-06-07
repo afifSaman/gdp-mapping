@@ -1,0 +1,17 @@
+<div class="container">
+  <div style="display: inline-block;">
+    <label pull-right>Continent Filter: <select class="pull-right" ng-model="selectedContinent" ng-options="continent for continent in vm.continentFilter" ng-change="vm.initialiseData(selectedContinent)"></select></label>
+  </div>
+    <h2>Graph</h2>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel panel-body">
+                  <canvas id="bar" class="chart chart-bar"
+                    chart-data="vm.graphData" chart-labels="vm.countriesNames" chart-series="vm.series">
+                  </canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
