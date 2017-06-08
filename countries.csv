@@ -37,7 +37,7 @@ China	11218281	23.9	CN	Asia
 Colombia	282357	28.9	CO	South America
 Comoros	620	22.1	KM	Africa
 Costa Rica	58109	18.2	CR	North America
-Côte d'Ivoire	35489	18.2	CI	North America
+CÃ´te d'Ivoire	35489	18.2	CI	North America
 Croatia	50441	42.5	HR	Europe
 Cyprus	19810	46.1	CY	Europe
 Czech Republic	192991	43.3	CZ	Europe
@@ -85,7 +85,7 @@ Jordan	38743	33.2	JO	Asia
 Kazakhstan	133757	22.4	KZ	Asia
 Kenya	68919	29.1	KE	Africa
 Kiribati	167	91.8	KI	Oceania
-Kosovo	6707	91.8	KI	Asia
+Kosovo	6707		XK	Europe
 Kuwait	109859	38.5	KW	Asia
 Kyrgyzstan	6551	36.4	KG	Asia
 Laos	13790	21	LA	Asia
@@ -141,7 +141,7 @@ Rwanda	8406	27	RW	Africa
 Saint Vincent and the Grenadines	775	30.3	VC	North America
 Samoa	786	43.9	WS	Oceania
 San Marino	1592	43.9	SM	Europe
-São Tomé and Príncipe	350	49	ST	Africa
+SÃ£o TomÃ© and PrÃ­ncipe	350	49	ST	Africa
 Saudi Arabia	639617	35.1	SA	Asia
 Senegal	14785	28.6	SN	Africa
 Serbia	37745	45.2	RS	Europe
