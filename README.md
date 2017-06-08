@@ -35,4 +35,4 @@ To start our app, just type 'node server' in the command prompt and the app can 
 6. ExpressJS
  * Express is an application framework for NodeJS. It allowed us to create API quickly and easily
 7. AngularChartJS
- * AngularChartJS is an AngularJS library in form of directive. It is based on ChartJS. AngularChartJS is a great library which allowed us to create chart mixed type of charts easily
+ * AngularChartJS is an AngularJS library in form of directive. It is based on ChartJS. AngularChartJS is a great library which allowed us to create mixed type of charts easily
